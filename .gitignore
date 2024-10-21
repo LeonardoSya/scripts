@@ -1,6 +1,7 @@
-/data
-/node_modules
+data/
+node_modules/
 package-lock.json
 yarn.lock
-/lib
-/extract-ndvi
+lib/
+extract-ndvi/
+gdp-analysis-env/
